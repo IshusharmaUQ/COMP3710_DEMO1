@@ -10,6 +10,9 @@ It is formed by repeatedly removing the middle triangle from a larger equilatera
 Unlike Mandelbrot/Julia fractals, which are based on complex numbers, the Sierpinski Triangle is a **geometric fractal**.  
 In this implementation, PyTorch tensors and GPU parallelism are used to compute the fractal efficiently.
 
+<img width="699" height="672" alt="image" src="https://github.com/user-attachments/assets/5004e95f-8f9c-416b-a8ae-c50d2cdd4ca0" />
+
+
 ---
 
 ## 🚀 How it Works
